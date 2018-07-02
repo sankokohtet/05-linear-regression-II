@@ -8,29 +8,6 @@
 
 - [Lesson 6: Cross Validation and Grid Search]()
 
-- [Lesson 7: Introduction to Classification: KMeans]()
-
-- [Lesson 8: Classification with Logistic Regression]()
-
-- [Lesson 9: Data Accession, API's, Web Scraping, and Crawling]()
-
-- [Lesson 10: Presentation graphics and modeling practice]()
-
-- [Lesson 11: Decision Trees and Random Forests]()
-
-- [Lesson 12: SVM's and Ensemble Methods]()
-
-- [Lesson 13: NLP and Text Classification]()
-
-- [Lesson 14: NLP II]()
-
-- [Lesson 15: Timeseries I]()
-
-- [Lesson 16: Neural Networks]()
-
-- [Lesson 17: Working with Databases]()
-
-- [Lesson 18: Pipelines and Projects]()
 
 
 
